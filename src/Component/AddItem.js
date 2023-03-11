@@ -34,6 +34,8 @@ const AddItem = () => {
             <input name='quantity' type='number' placeholder="quantity" value={values.quantity} onChange={handleInputChange}/>
 
             <button>SEND</button>
+            <button>Test</button>
+
         </form>
     )
 
