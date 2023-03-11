@@ -1,0 +1,14 @@
+.card_div{
+  display: flex;
+    justify-content: space-between;
+    width: 100%;
+    border: 1px solid gainsboro;
+    padding: 5px;
+    align-items: center;
+    margin: 2%;
+}
+
+.shop_div{
+  display: flex;
+  justify-content: space-between;
+}
